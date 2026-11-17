@@ -13,7 +13,7 @@ Open to software engineering and data analyst internships</p>
 ## About me
 
 - **Research Assistant at Rutgers.** I analyze student interviews to understand how students respond to early academic support in introductory computer science courses.
-- **Teaching Assistant Trainee for CS111 and CS112.** I help students debug their code and work through core programming and data structures concepts.
+- **Teaching Assistant Trainee for CS111 and CS112.** I help students work through core programming and data structures concepts and create coding assignments for 400+ students.
 - **USACS Education Chair.** I organize events that connect Rutgers CS students with faculty, researchers, and alumni.
 
 ## Featured projects
